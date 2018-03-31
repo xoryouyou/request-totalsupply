@@ -1,6 +1,8 @@
 # request-totalsupply
 Minimal starter repository to get the current RequestNetwork token supply via INFURA.
 
+Demo: https://xoryouyou.github.io/request-totalsupply/index.html
+
 ## Getting started
 `npm start` - for live development
 
